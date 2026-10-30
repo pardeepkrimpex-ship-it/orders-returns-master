@@ -1,0 +1,7 @@
+{
+  "appId": "com.pardeep.ordersreturns",
+  "appName": "Orders & Returns",
+  "webDir": "www",
+  "backgroundColor": "#f5f7fb",
+  "android": { "allowMixedContent": false }
+}
